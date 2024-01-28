@@ -1,3 +1,3 @@
 # natours-frontend
 
-netlify link: https://d-natours-frontend.netlify.app/
+site link: https://d4rkn3m3s1s.github.io/natours-frontend/
